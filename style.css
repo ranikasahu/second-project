@@ -1,0 +1,305 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bar ul {
+    list-style: none;
+    display: flex;
+    padding: 0px 0px 0px 700px;
+}
+
+.bar ul li {
+    padding: 12px 40px 0px 0px;
+}
+
+.bar h2 {
+    margin: 30px 0px -48px 160px;
+    width: fit-content;
+}
+
+.bar i {
+    transform: translate(1420px, -36px);
+}
+
+.img1 {
+    background-image: url(https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    width: 33%;
+    height: 400px;
+    background-size: cover;
+}
+
+.img2 {
+    background-image: url(https://coolwallpapers.me/picsup/6142253-fall-colorful-red-autumn-japan-view-beautiful-fuji-lake-mountain-tree-leaves-season-branches-reflection.jpg);
+    width: 33%;
+    height: 400px;
+    background-size: cover;
+    margin: 0px 10px 0px 10px;
+}
+
+.img3 {
+    background-image: url(https://twolovesstudio.com/wp-content/uploads/2017/05/99-Best-Food-Photography-Tips-16.jpg);
+    width: 33%;
+    height: 400px;
+    background-size: cover;
+}
+
+.imgsection {
+    display: flex;
+}
+
+.lifestyle {
+    margin: 100px 60px 0px 150px;
+    height: 500px;
+}
+
+.lifestyle_img1 {
+    background-image: url(https://images.alphacoders.com/105/1054847.jpg);
+    width: 100%;
+    height: 240px;
+    background-size: cover;
+}
+
+.lifestyle_img2 {
+    background-image: url(https://www.india.com/wp-content/uploads/2018/03/Yoga-for-women.jpg);
+    width: 100%;
+    height: 240px;
+    background-size: cover;
+    margin: 0px 0px 0px 60px;
+}
+
+.lifestyle_2 {
+    display: flex;
+}
+
+.lifestyle_img2border h2 {
+    margin: 18px 0px 0px 62px;
+}
+
+.lifestyle_img2border p {
+    margin: 16px 0px 0px 60px;
+}
+
+.life_categories {
+    display: flex;
+}
+
+.categories {
+    width: 350px;
+    margin: 100px 210px 0px 0px;
+}
+
+.categories ul {
+    list-style: none;
+}
+
+.categories ul i {
+    margin: 0px 25px 0px 0px;
+}
+
+.categories ul li {
+    margin: 0px 0px 30px 0px;
+}
+
+.videosection {
+    margin: 15px 60px 0px 150px;
+    display: flex;
+}
+
+.video1 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzZqYsTKkajTrwWS3I_zHezXvjjFFIMj9ar-NK7zyvRFSLHdqEKsOdfwXAjwdCvChDEac&usqp=CAU);
+    width: 90%;
+    height: 160px;
+    background-size: cover;
+    margin: 0px 15px 0px 0px;
+}
+
+.video2 {
+    background-image: url(https://previews.123rf.com/images/antonioguillem/antonioguillem1906/antonioguillem190600246/125820076-happy-student-in-a-park-using-smart-phone-with-copy-space.jpg);
+    width: 90%;
+    height: 160px;
+    background-size: cover;
+    margin: 0px 15px 0px 0px;
+}
+
+.video3 {
+    background-image: url(http://s6.weddbook.me/t1/2/0/0/2004799/beauty-make-up-and-hair-inspiration.jpg);
+    width: 90%;
+    height: 160px;
+    background-size: cover;
+}
+
+.video {
+    width: 33%;
+}
+
+.sports {
+    margin: 0px 0px 0px 150px;
+}
+
+.sportsflex {
+    display: flex;
+}
+
+.carimg {
+    background-image: url(https://carsalesbase.com/wp-content/uploads/2020/07/US-sports-car-sales-Chevrolet_Corvette.jpg);
+    width: 100%;
+    height: 370px;
+    background-size: cover;
+}
+
+.sports2 {
+    width: 670px;
+}
+
+.searf {
+    background-image: url(https://media.istockphoto.com/photos/surfing-picture-id160896636?k=20&m=160896636&s=612x612&w=0&h=Lh-q3Rx3xW2O6R12hXyAAGx3N_6grI4_-7LqaezaJYE=);
+    width: 250px;
+    height: 200px;
+    background-size: cover;
+}
+
+.sports3 h5 {
+    width: 250px;
+}
+
+.sward {
+    background-image: url(https://i.pinimg.com/originals/09/66/42/0966428278f286ed1300ab7a2e02ceb4.jpg);
+    width: 250px;
+    height: 200px;
+    background-size: cover;
+}
+
+.sports3 {
+    margin: 0px 0px 0px 15px;
+}
+
+.leftsection {
+    width: 430px;
+}
+
+.newsletter {
+    width: 300px;
+}
+
+.news {
+    padding: 15px;
+}
+
+.newsletter button {
+    padding: 15px 40px 15px 40px;
+    background-color: gold;
+    color: white;
+    border: 1px solid gold;
+}
+
+.fashion2 {
+    display: flex;
+}
+
+.fashionimg1 {
+    background-image: url(https://media.istockphoto.com/photos/back-of-student-girl-holding-books-and-carry-school-bag-while-walking-picture-id1066415076?b=1&k=20&m=1066415076&s=170667a&w=0&h=uDBH2CQneeoHLkjiAHslYjeEvjLSOpja9crRkTUjTA4=);
+    width: 500px;
+    height: 335px;
+    background-size: cover;
+}
+
+.fashion {
+    margin: 0px 0px 0px 150px;
+}
+
+.fashion_section1 {
+    width: 500px;
+}
+
+.fashionimg2 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyDA3qDN_6BTjHYuy5AOmT1GdsIli6Goaar5bi-eNjIfjYKIPP64Ve-bRtaqw3nkr9qxw&usqp=CAU);
+    width: 400px;
+    height: 280px;
+    background-size: cover;
+    /* margin: 0px 0px 0px 15px; */
+}
+
+.fashion_section2 {
+    margin: 0px 0px 0px 15px;
+}
+
+.recentpost ul li {
+    padding: 0px 0px 15px 0px;
+    list-style: none
+}
+
+.categories2 ul li {
+    list-style: none;
+    padding: 0px 0px 15px 0px;
+}
+
+footer {
+    background-color: navy;
+    color: white;
+}
+
+.footersection {
+    margin: 0px 200px 0px 150px;
+    padding: 50px 0px 50px 0px;
+    display: flex;
+}
+
+.footersection1 {
+    width: 33%;
+}
+
+.footersection1 i {
+    font-size: 50px;
+}
+
+.footersection2 {
+    width: 33%;
+}
+
+.footersection3 {
+    width: 33%;
+}
+
+.footersection3 ul li {
+    list-style: none;
+    padding: 0px 0px 15px 0px;
+}
+
+.footersection3 ul li i {
+    color: rgb(72, 173, 255);
+    padding: 0px 10px 0px 0px;
+}
+
+.footersection2 ul li {
+    list-style: none;
+    padding: 0px 0px 15px 0px;
+}
+
+@media screen and (max-width:1024px) {
+    body {
+        width: 1508px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    body {
+        width: 1475px;
+    }
+    .bar {
+        font-size: 20px;
+    }
+    .bar i {
+        transform: translate(1420px, -65px);
+    }
+    .imgsection {
+        width: 1475px;
+    }
+    .life_categories {
+        width: 1475px;
+    }
+    .leftsection {
+        width: 400px;
+    }
+}
